@@ -1,0 +1,137 @@
+Acquired Immunodeficiency Syndrome
+ACTH-Secreting Pituitary Adenoma
+Adenocarcinoma
+Adrenocortical Carcinoma
+Alzheimer Disease
+Arrhythmias, Cardiac
+Arthritis, Rheumatoid
+Asthma
+Astrocytoma
+Autistic Disorder
+Autoimmune Diseases
+Azoospermia
+Barrett Esophagus
+Brain Neoplasms
+Breast Neoplasms
+Burkitt Lymphoma
+Carcinoma, Ductal, Breast
+Carcinoma, Embryonal
+Carcinoma, Hepatocellular
+Carcinoma, Non-Small-Cell Lung
+Carcinoma, Renal Cell
+Carcinoma, Squamous Cell
+Cardiomegaly
+Cardiomyopathies
+Cardiomyopathy, Hypertrophic
+Carotid Artery Diseases
+Cerebellar Neoplasms
+Cholangiocarcinoma
+Colonic Neoplasms
+Colorectal Neoplasms
+Coronary Artery Disease
+Dementia
+Dermatitis, Atopic
+Diabetes Mellitus
+Diabetes Mellitus, Type 2
+Diabetic Nephropathies
+Digestive System Neoplasms
+Down Syndrome
+Eczema
+Endometriosis
+Endomyocardial Fibrosis
+Esophageal Neoplasms
+Focal Epithelial Hyperplasia
+Fragile X Syndrome
+Gastrointestinal Neoplasms
+Glioblastoma
+Glioma
+Hamartoma Syndrome, Multiple
+Head and Neck Neoplasms
+Hearing Loss
+Heart Defects, Congenital
+Heart Diseases
+Heart Failure
+Hematologic Neoplasms
+Hepatitis
+Hepatitis B
+Hepatitis C
+Hepatitis, Chronic
+Hodgkin Disease
+Hyperglycemia
+Hypertension
+Hypertrophy
+leukaemia
+Leukemia
+Leukemia, B-Cell
+Leukemia, Lymphocytic, Chronic, B-Cell
+Leukemia, Myeloid
+Leukemia, Myeloid, Acute
+Leukemia, Myeloid, Chronic-Phase
+Leukemia, Promyelocytic, Acute
+Leukemia-Lymphoma, Adult T-Cell
+Lipid Metabolism Disorders
+Liver Cirrhosis
+Liver Diseases
+Liver Diseases, Alcoholic
+Long QT Syndrome
+Lung Neoplasms
+Lupus Vulgaris
+Lymphoma
+Lymphoma, B-Cell
+Lymphoma, Large B-Cell, Diffuse
+Lymphoma, Mantle-Cell
+Lymphoma, Primary Effusion
+Lymphoproliferative Disorders
+Marek Disease
+Medulloblastoma
+Melanoma
+Multiple Myeloma
+Muscular Disorders, Atrophic
+Muscular Dystrophies
+Musculoskeletal Abnormalities
+Myelodysplastic Syndromes
+Myeloproliferative Disorders
+Myocardial Infarction
+Myocardial Ischemia
+Myocardial Reperfusion Injury
+Myotonic Dystrophy
+Nasopharyngeal Neoplasms
+Neoplasms
+Neoplasms, Germ Cell and Embryonal
+Nervous System Diseases
+Neuroblastoma
+Neurodegenerative Diseases
+Neutropenia
+Obesity
+Osteoarthritis
+Ovarian Neoplasms
+Pancreatic Neoplasms
+Papilary thyroid carcinoma
+Parkinson Disease
+Pituitary Neoplasms
+Polycystic Kidney Diseases
+Polycythemia Vera
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Pre-Eclampsia
+Prostatic Neoplasms
+Psoriasis
+Rectal Neoplasms
+Renal Insufficiency
+Reperfusion Injury
+Retinal Degeneration
+Retinal Neovascularization
+Rhabdomyosarcoma
+RNA Virus Infections
+Salivary Gland Neoplasms
+Sarcoma, Kaposi
+Schizophrenia
+Skin Neoplasms
+Stomach Neoplasms
+Testicular Neoplasms
+Thyroid Neoplasms
+Tongue Neoplasms
+Tourette Syndrome
+Urinary Bladder Neoplasms
+Uterine Cervical Neoplasms
+Waldenstrom Macroglobulinemia
